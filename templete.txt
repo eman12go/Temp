@@ -1,0 +1,11 @@
+normalize
+
+googleFont =>Work Sans choose weight and get link 
+https://fonts.google.com/
+
+
+fontawesome  =>web -free
+https://fontawesome.com/download
+
+
+https://www.pexels.com/
